@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/Samantha-a/Film-Club",
-    "repository": "https://github.com/Samantha-a/Film-Club",
+    "repository": "https://github.com/Shanidkk00/Film-Club",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
