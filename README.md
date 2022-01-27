@@ -44,7 +44,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Samantha-a/Film-Club">
+<a href="https://heroku.com/deploy?template=https://github.com/Shanidkk00/Film-Club">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -90,6 +90,6 @@ python3 bot.py
 • /broadcast - to broadcast a message to all Eva Maria users
 ```
 
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [Albin](https://t.me/albintko)                                                                                                                                        
-𝙶𝚁𝙾𝚄𝙿 ›› [𝐌𝐨𝐯𝐢𝐞𝐬 𝐖𝐨𝐫𝐥𝐝](https://t.me/Movies_World02)                                             
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐋𝐚𝐭𝐞𝐬𝐭 𝐌𝐨𝐯𝐢𝐞𝐬 𝐇𝐮𝐛](https://t.me/joinchat/9Mq2rjj9YDk0YmZh)
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [Albin](https://t.me/Peter_parker_10)                                                                                                                                        
+𝙶𝚁𝙾𝚄𝙿 ›› [MOVIES CLUB](https://t.me/new_movies_group_2021)                                             
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐋𝐚𝐭𝐞𝐬𝐭 𝐌𝐨𝐯𝐢𝐞𝐬](https://t.me/new_all_movies_club)
